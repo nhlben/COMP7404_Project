@@ -6,7 +6,7 @@
 Github: https://github.com/PaddlePaddle/PaddleSeg
 
 # Guideline to run the code
-- Git clone from https://github.com/PaddlePaddle/PaddleSeg
+1. Git clone from https://github.com/PaddlePaddle/PaddleSeg
 
 # Experiment & Results
 
