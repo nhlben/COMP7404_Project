@@ -5,6 +5,9 @@
 
 Github: https://github.com/PaddlePaddle/PaddleSeg
 
+# Guideline to run the code
+- Git clone from https://github.com/PaddlePaddle/PaddleSeg
+
 # Experiment & Results
 
 ## Original Dataset in the paper
