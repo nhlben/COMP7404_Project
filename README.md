@@ -7,7 +7,14 @@ Github: https://github.com/PaddlePaddle/PaddleSeg
 
 # Guideline to run the code
 1. Git clone from https://github.com/PaddlePaddle/PaddleSeg
-
+2. Follow the instruction at https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.8/docs/install_cn.md to configure the environment
+3. Download the dataset needed:
+   | Dataset | URL |
+   | ------    | --------                            |
+   | Cityscape | https://www.cityscapes-dataset.com/ <tr></tr>|
+   | ADE20K    | https://groups.csail.mit.edu/vision/datasets/ADE20K/ <tr></tr> |
+   | TODO|TODO|
+   
 # Experiment & Results
 
 ## Original Dataset in the paper
