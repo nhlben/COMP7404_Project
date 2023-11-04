@@ -1,5 +1,12 @@
-# COMP7404_Project
+# COMP7404 Project Group X
 
+- Ng Hon Lam
+
+- Li Xiang
+
+- Suen Heung Ping
+
+- Liu Wenrui
 ## Paper Used
 [RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer](https://proceedings.neurips.cc/paper_files/paper/2022/file/30e10e671c5e43edb67eb257abb6c3ea-Paper-Conference.pdf)
 
