@@ -65,7 +65,7 @@ Dataset information:
 
    |Model	|Backbone	|Resolution	|Training Iters	|mIoU|	mIoU (flip)|	mIoU (ms+flip)|	Links|
    | ------    | --------|--------|-------|---------|---------|-----------|-----                            |
-   | RTFormer-Base	|-|	512x512	|10000	|%	|%	|%	|model  log  vdl <tr></tr>|
-   | RTFormer-Slim	|-|	512x512	|10000	|%	|%	|%	|model  log  vdl|
+   | RTFormer-Base	|-|	640x640	|10000	|%	|%	|%	|model  log  vdl <tr></tr>|
+   | RTFormer-Slim	|-|	640x640	|10000	|%	|%	|%	|model  log  vdl|
 
 
