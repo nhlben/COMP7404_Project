@@ -23,7 +23,7 @@ train_dataset:
 val_dataset:
   transforms:
     - type: Resize
-      target_size: [2048, 512]
+      target_size: [512, 512]
       keep_ratio: True
       size_divisor: 32
     - type: Normalize

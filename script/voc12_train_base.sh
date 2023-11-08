@@ -4,7 +4,7 @@
 #SBATCH --job-name=voc12_train_base
 #SBATCH --mail-user=nhlben@connect.hku.hk
 #SBATCH --mail-type=ALL
-#SBATCH --output=/userhome/cs2/nhlben/comp7404/project/voc12_train_base.txt
+#SBATCH --output=/userhome/cs2/nhlben/comp7404/project/voc12_base_train_log.txt
 #SBATCH --gres=gpu:1
 
 #If you use Anaconda, initialize it
@@ -22,4 +22,4 @@ python tools/train.py \
        --do_eval \
        --use_vdl \
        --save_interval 500 \
-       --save_dir output
+       --save_dir output/voc12_base
