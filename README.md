@@ -14,7 +14,7 @@ Github: https://github.com/PaddlePaddle/PaddleSeg
 
 # Guideline to run the code
 1. Git clone from https://github.com/PaddlePaddle/PaddleSeg
-2. Follow the instruction at https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.8/docs/install_cn.md to configure the environment
+2. Follow the instruction at https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.8/docs/install_cn.md to configure the environment, prefer using Anaconda
 3. Download the dataset needed: (Reference: https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.8/docs/data/pre_data_cn.md)
    | Dataset | URL |
    | ------    | --------                            |
